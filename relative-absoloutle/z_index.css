@@ -1,0 +1,42 @@
+.tapsiriq {
+    position: absolute;
+ 
+}
+.arxa_fon{
+    position: relative;
+}
+.arxa_fon img{
+    position: relative;
+    width: 1256px;
+    height: 570px;
+}
+
+.sol_ust, .sag_ust, .sag_alt, .sol_alt, .merkez{
+
+    background-color: lightgray;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.sol_ust{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.sag_ust{
+    top: 0px;
+    right: 0px;
+}
+
+.sag_alt{
+    bottom: 0px;
+    right: 0px;
+}
+.sol_alt {
+    bottom: 0px;
+    left: 0px;
+}
+.merkez{
+  bottom: 50%;
+left: 50%;
+}
